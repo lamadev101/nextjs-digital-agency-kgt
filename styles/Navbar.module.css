@@ -1,0 +1,26 @@
+.container{
+    height: 100px;
+    background-color: #011b32;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px 100px;
+}
+
+.list{
+    display: flex;
+    
+}
+.listItem{
+    justify-content: space-between;
+    text-transform: uppercase;
+    list-style: none;
+    margin-right: 20px;
+    font-weight: 400;
+    color: #eadede;
+}
+.callNow{
+    color: yellow;
+    font-weight: 500;
+    font-size: 18px;
+}

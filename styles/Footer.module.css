@@ -1,0 +1,30 @@
+.container{
+    padding: 10px 50px;
+    background-color:#011b32;
+}
+.wrapper{
+    display: flex;
+    color: #fff;
+
+}
+.col1{
+    flex: 2;
+    font-size: 12px;
+    font-weight: 200;
+}
+.col{
+    flex: 1;
+    text-align: center;
+}
+.list{  
+    list-style: none;
+}
+.footer{
+    width: 100%;
+    border-top: 1px solid white;
+    text-align: center;
+    font-weight: 300;
+    font-size: 18px;
+    color: #fff;
+    padding: 10px 0;
+}
