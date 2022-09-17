@@ -6,6 +6,12 @@ body {
   background-color: #a2d2ed;
   /* color: white; */
 }
+html{
+  scroll-behavior: smooth;
+}
+::-webkit-scrollbar{
+  width: 0px;
+}
 
 a {
   color: inherit;
